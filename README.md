@@ -1,4 +1,4 @@
-# suflex
+# sfx
 
 A new Flutter project.
 
